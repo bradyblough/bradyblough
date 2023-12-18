@@ -38,8 +38,13 @@ I love diving into books to enhance my knowledge. Check out my Goodreads profile
 [Explore my reading list on Goodreads](https://www.goodreads.com/user/show/159425352-brady-blough)
 
 
+## 🌐 Citizen Science
+I'm fueled by a deep passion for making a positive impact on the world through active participation in citizen science projects. My contributions are focused on aiding research endeavors, with a particular emphasis on Astronomy. In this field, citizen contributions play a pivotal role, helping navigate through the vast sea of research data. Whether it's unraveling the mysteries of the cosmos or contributing to projects that advance our understanding of the world, I am dedicated to playing a meaningful role in scientific exploration.
+[My citizen science contributions](https://i.postimg.cc/X7TYSCnN/Screenshot-2023-12-18-at-1-24-24-AM.png)
+
+
 ### 📊 GitHub Stats
-![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyblough&show_icons=true&theme=github_dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyblough&show_icons=true&theme=github_dark)
 
   <h3>👨‍💻 About Me </h3>
   
