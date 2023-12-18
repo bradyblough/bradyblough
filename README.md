@@ -33,6 +33,13 @@
 </p>
 <h3 align="left"><a href="https://medium.com/@bradyblough/elevating-my-software-skills-completing-freecodecamps-python-certification-c5f56ce1b2f5">Elevating My Software Skills: Completing FreeCodeCamp's Python Certification</a></h3>
 
+## 📚 Books I'm Reading
+
+I love diving into books to enhance my knowledge. Check out my Goodreads profile for my complete reading list.
+
+[Explore my reading list on Goodreads](https://www.goodreads.com/user/show/159425352-brady-blough)
+
+
 ### 📊 GitHub Stats
 ![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyblough&show_icons=true&theme=github_dark)
 
