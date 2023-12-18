@@ -42,7 +42,7 @@ I love diving into books to enhance my knowledge. Check out my Goodreads profile
 I'm fueled by a deep passion for making a positive impact on the world through active participation in citizen science projects. My contributions are focused on aiding research endeavors, with a particular emphasis on Astronomy. In this field, citizen contributions play a pivotal role, helping navigate through the vast sea of research data. Whether it's unraveling the mysteries of the cosmos or contributing to projects that advance our understanding of the world, I am dedicated to playing a meaningful role in scientific exploration.
 <br>
 <br>
-<img src="https://i.postimg.cc/X7TYSCnN/Screenshot-2023-12-18-at-1-24-24-AM.png" alt="Citizen science contributions">
+<img src="https://i.postimg.cc/X7TYSCnN/Screenshot-2023-12-18-at-1-24-24-AM.png" alt="Citizen science contributions" width=700>
 
 
 
