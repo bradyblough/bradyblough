@@ -20,10 +20,15 @@
   <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
+  <h3>👨‍💻 About Me </h3>
+  
+Embarking on my coding journey as a curious computer science student, I eagerly delved into the vast realm of programming, embracing everything from code and Unix to Linux and theory. Along this path, I uncovered the exciting prospect of merging my profound love for astronomy with programming, creating projects that mirror the fundamental laws governing our universe. The idea that the fundamental laws of nature can be mirrored in a virtual world crafted from silicon continues to amaze me.
+
+In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to deepen my understanding of the cosmos but also actively apply the knowledge gained by building code. These courses serve as a foundation for practical coding projects, allowing me to translate theoretical concepts into tangible solutions and further enhance my programming skills.
+
 ### 🏆 Certificates
 
 <img src="https://i.postimg.cc/ZRyyFcq3/github-4.png" alt="Coursera Certificate" width="675">
-
 
 ### 🚀 Latest Medium Article 
 <p align="left">
@@ -37,17 +42,14 @@
 I love diving into books to enhance my knowledge. Check out my Goodreads profile for my complete reading list.
 [Explore my reading list on Goodreads](https://www.goodreads.com/user/show/159425352-brady-blough)
 
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyblough&show_icons=true&theme=github_dark)
 
 ## 🌐 Citizen Science
 I'm fueled by a deep passion for making a positive impact on the world through active participation in citizen science projects. My contributions are focused on aiding research endeavors, with a particular emphasis on Astronomy. In this field, citizen contributions play a pivotal role, helping navigate through the vast sea of research data. Whether it's unraveling the mysteries of the cosmos or contributing to projects that advance our understanding of the world, I am dedicated to playing a meaningful role in scientific exploration.
 
 
-### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bradyblough&show_icons=true&theme=github_dark)
 
-  <h3>👨‍💻 About Me </h3>
-  
-Embarking on my coding journey as a curious computer science student, I eagerly delved into the vast realm of programming, embracing everything from code and Unix to Linux and theory. Along this path, I uncovered the exciting prospect of merging my profound love for astronomy with programming, creating projects that mirror the fundamental laws governing our universe. The idea that the fundamental laws of nature can be mirrored in a virtual world crafted from silicon continues to amaze me.
 
-In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to deepen my understanding of the cosmos but also actively apply the knowledge gained by building code. These courses serve as a foundation for practical coding projects, allowing me to translate theoretical concepts into tangible solutions and further enhance my programming skills.
+
 
