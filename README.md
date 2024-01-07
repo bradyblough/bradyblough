@@ -32,8 +32,8 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
 
 ### 🚀 Latest Medium Article 
 <p align="left">
-  <a href="https://medium.com/@bradyblough/elevating-my-software-skills-completing-freecodecamps-python-certification-c5f56ce1b2f5">
-    <img src="https://i.postimg.cc/hjtnbgYR/1-TKXSm-O-vghw2-G5a-DRcf2-Ww.webp" alt="Elevating My Software Skills: Completing FreeCodeCamp's Python Certification" width="650">
+  <a href="https://medium.com/@bradyblough/vectors-play-a-crucial-role-in-various-fields-from-physics-and-engineering-to-computer-graphics-7fdf19f1d277">
+    <img src="https://i.postimg.cc/3R1cpMHc/Screenshot-2024-01-07-at-4-28-23-PM.png" alt="The Vector Drawing App" width="650">
   </a>
 </p>
 <h3 align="left"><a href="https://medium.com/@bradyblough/elevating-my-software-skills-completing-freecodecamps-python-certification-c5f56ce1b2f5">Elevating My Software Skills: Completing FreeCodeCamp's Python Certification</a></h3>
