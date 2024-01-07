@@ -35,6 +35,7 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
   <a href="https://medium.com/@bradyblough/vectors-play-a-crucial-role-in-various-fields-from-physics-and-engineering-to-computer-graphics-7fdf19f1d277">
     <img src="https://i.postimg.cc/3R1cpMHc/Screenshot-2024-01-07-at-4-28-23-PM.png" alt="The Vector Drawing App" width="650">
   </a>
+</p>
 <h3 align="left"><a href="https://medium.com/@bradyblough/vectors-play-a-crucial-role-in-various-fields-from-physics-and-engineering-to-computer-graphics-7fdf19f1d277">The Vector Drawing App</a></h3>
 
 ## 📚 Books I'm Reading
