@@ -31,7 +31,7 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
 <img src="https://i.postimg.cc/sXD47c4t/mooc.jpg" alt="MOOC" width="675">
 <p>I have completed many astronomy massive open online courses (MOOCs) that are located in my certifcates repository. You can also view the certificates page on my website for more details!</p>
 
-### 🚀 Latest Medium Article 
+### 🚀 My Latest Medium Article 
 <p align="left">
   <a href="https://medium.com/@bradyblough/on-the-indispensable-partnership-between-humans-and-computers-in-modern-astrophysics-ad14d1442ef5">
     <img src="https://images.unsplash.com/photo-1701017509217-930c2e6a3672?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="On the Indispensable Partnership Between Humans and Computers in Modern Astrophysics" width="650">
