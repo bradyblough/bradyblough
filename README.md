@@ -28,7 +28,7 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
 
 ### 🏆 Certificates
 
-<img src="https://i.postimg.cc/ZRyyFcq3/github-4.png" alt="Coursera Certificate" width="675">
+<img src="https://i.postimg.cc/sXD47c4t/mooc.jpg" alt="MOOC" width="675">
 
 ### 🚀 Latest Medium Article 
 <p align="left">
