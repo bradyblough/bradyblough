@@ -33,11 +33,11 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
 
 ### 🚀 Latest Medium Article 
 <p align="left">
-  <a href="https://medium.com/@bradyblough/vectors-play-a-crucial-role-in-various-fields-from-physics-and-engineering-to-computer-graphics-7fdf19f1d277">
-    <img src="https://i.postimg.cc/3R1cpMHc/Screenshot-2024-01-07-at-4-28-23-PM.png" alt="The Vector Drawing App" width="650">
+  <a href="https://medium.com/@bradyblough/on-the-indispensable-partnership-between-humans-and-computers-in-modern-astrophysics-ad14d1442ef5">
+    <img src="https://images.unsplash.com/photo-1701017509217-930c2e6a3672?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="On the Indispensable Partnership Between Humans and Computers in Modern Astrophysics" width="650">
   </a>
 </p>
-<h3 align="left"><a href="https://medium.com/@bradyblough/vectors-play-a-crucial-role-in-various-fields-from-physics-and-engineering-to-computer-graphics-7fdf19f1d277">The Vector Drawing App</a></h3>
+<h3 align="left"><a href="https://medium.com/@bradyblough/on-the-indispensable-partnership-between-humans-and-computers-in-modern-astrophysics-ad14d1442ef5">On the Indispensable Partnership Between Humans and Computers in Modern Astrophysics</a></h3>
 
 ## 📚 Books I'm Reading
 I love diving into books to enhance my knowledge. Check out my Goodreads profile for my complete reading list.
