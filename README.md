@@ -29,6 +29,7 @@ In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to
 ### 🏆 Certificates
 
 <img src="https://i.postimg.cc/sXD47c4t/mooc.jpg" alt="MOOC" width="675">
+<p>I have completed many astronomy massive open online courses (MOOCs) that are located in my certifcates repository. You can also view the certificates page on my website for more details!</p>
 
 ### 🚀 Latest Medium Article 
 <p align="left">
