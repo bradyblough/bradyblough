@@ -21,7 +21,7 @@
 </div>
 
   <h3>👨‍💻 About Me </h3>
-👨‍💻 About Me
+
 I'm fascinated by the concept of replicating the fundamental laws of nature inside a computer. Although I enjoy programming as a whole, my passion lies in scientific programming. You'll frequently find me enrolled in online courses, where I eagerly attempt to translate newfound knowledge into programming projects. This journey not only fuels my curiosity but also reinforces my belief in the limitless possibilities of technology to emulate and understand our universe.
 
 ### 🏆 Certificates
