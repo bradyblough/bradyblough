@@ -21,7 +21,7 @@
 </div>
 
   <h3>👨‍💻 About Me </h3>
-The idea that the fundamental laws of nature can be mirrored in a virtual world crafted from silicon continues to amaze me. In my spare time, I not only enjoy taking Massive Online Open Courses (MOOCs) to deepen my understanding of the cosmos but also actively apply the knowledge gained by building code. These courses serve as a foundation for practical coding projects, allowing me to translate theoretical concepts into tangible solutions and further enhance my programming skills.
+The idea that the fundamental laws of nature can be mirrored in a virtual world crafted from silicon continues to amaze me. I not only enjoy taking Massive Online Open Courses (MOOCs) to deepen my understanding of the cosmos but also actively apply the knowledge gained by building code. These courses serve as a foundation for practical coding projects, allowing me to translate theoretical concepts into tangible solutions and further enhance my programming skills.
 
 ### 🏆 Certificates
 
